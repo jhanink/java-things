@@ -1,1 +1,1 @@
-# java-things
+# Java Things
